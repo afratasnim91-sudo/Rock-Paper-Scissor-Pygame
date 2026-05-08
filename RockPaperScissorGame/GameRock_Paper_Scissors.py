@@ -81,7 +81,7 @@ while running:
     # Labels
     screen.blit(small_font.render("ROCK", True, WHITE), (120, 540))
     screen.blit(small_font.render("PAPER", True, WHITE), (400, 540))
-    screen.blit(small_font.render("SCISSOR", True, WHITE), (630, 540))
+    screen.blit(small_font.render("SCISSOR", True, WHITE), (670, 540))
 
     # Show result panel
     if result_surface:
